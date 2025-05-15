@@ -16,13 +16,6 @@
 - 📤 **Share Results** – Share plant info and predictions via social apps.
 - 🌙 **Theme Toggle** – Switch between light and dark themes.
 
----
-
-## 📱 Screenshots
-
-*(Add screenshots of your app here)*
-
----
 
 ## 🛠️ Tech Stack
 
